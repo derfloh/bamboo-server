@@ -1,7 +1,7 @@
 bamboo-server
 =============
 
-based on https://github.com/hwuethrich/docker-images/tree/master/bamboo-server but added some build tools to be able to use it in standalone/private mopde without remote agents
+based on https://github.com/hwuethrich/docker-images/tree/master/bamboo-server but added some build tools to be able to use it in standalone/private mode without remote agents
 
 Rest is copy&pasted from hwuethrich:
 
